@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628170362289",
+    "firebase_url": "https://push-notification-3adf8.firebaseio.com",
+    "project_id": "push-notification-3adf8",
+    "storage_bucket": "push-notification-3adf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628170362289:android:42a12b6ffa50c845344190",
+        "android_client_info": {
+          "package_name": "com.ductai.course.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628170362289-jsk5ov0acqkaba37dsu1a56r06v1sk58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ductai.course.pushnotification",
+            "certificate_hash": "4e3f8c7fb38db7598d3fddf21eb1e76458fbc7f1"
+          }
+        },
+        {
+          "client_id": "628170362289-gqbt1p43745b8otknteovte8biqeuuo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYfDxjLHRG8OhmhW7f9dwTi2G7mbZF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628170362289-gqbt1p43745b8otknteovte8biqeuuo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
