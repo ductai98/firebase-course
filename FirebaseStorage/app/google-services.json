@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139621040296",
+    "firebase_url": "https://fir-storage-74db2.firebaseio.com",
+    "project_id": "fir-storage-74db2",
+    "storage_bucket": "fir-storage-74db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139621040296:android:770eb50322aaaaff21029d",
+        "android_client_info": {
+          "package_name": "com.ductai.course.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139621040296-dpdsfjj4o8ebi2fa90gneaotdjasc2nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ductai.course.firebasestorage",
+            "certificate_hash": "4e3f8c7fb38db7598d3fddf21eb1e76458fbc7f1"
+          }
+        },
+        {
+          "client_id": "139621040296-fm5hguok0qcs5jn2i29bl1ptetv0i5u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIun28vliihv1rQp9FKDrXS0UmMnL8kEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139621040296-fm5hguok0qcs5jn2i29bl1ptetv0i5u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
